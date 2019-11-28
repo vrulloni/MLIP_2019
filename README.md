@@ -12,4 +12,4 @@ https://github.com/malejandrogarcia/iisg/tree/master/examples. Esos notebooks ti
 Info en la carpeta de la clase de hoy
 
 * Herramientas de Clustering para Dosimetría en Medicina Nuclear De A. Carolina Maldonado, Joaquin Seia y Florencia Alonso:
-Info en: https://github.com/joaco18/ClusteringMedNuc
+Info en: https://github.com/joaco18/TallerMLFCEFyN
