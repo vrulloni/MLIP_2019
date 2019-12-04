@@ -1,7 +1,13 @@
 # MLIP_2019
+La clase del 5/12
+Veremos:
+ * "iAG pMotile:  Determinación del porcentaje de espermatozoides (móviles)" de Dr. Hector A. Guidobaldi de IIBYT (CONICET-UNC) y CEBICEM (UNC). Archivos en: https://colab.research.google.com/drive/1NYQFCksFW1Dmdbuj-ckmJinwBcAbQxTe
+ * "U-Net: Red convolucional para segmentación de imágenes biomédicas" de Edgardo Garrigó 
+ 
+... sigue en construcción...
 
 La clase del 28/11
-Veremos:
+Vimos:
 
 * Aplicación en segmentación usando grafos de Mario Alejandro García: 
 El código (tipo librería) está en https://github.com/malejandrogarcia/iisg
