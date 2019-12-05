@@ -1,11 +1,10 @@
 # MLIP_2019
 La clase del 5/12
 Veremos:
- * "Aplicación para Procesamiento de imágenes DICOM" de Ana Rusconi y Rafael Cabrera Penayo (Estudiantes FCEFyN)
+ * "Aplicación para Procesamiento de imágenes DICOM" de Ana Rusconi y Rafael Cabrera Penayo (Estudiantes FCEFyN). Archivos en carpeta de clase de hoy.
  * "iAG pMotile:  Determinación del porcentaje de espermatozoides (móviles)" de Hector A. Guidobaldi de IIBYT (CONICET-UNC) y CEBICEM (UNC). Archivos en: https://colab.research.google.com/drive/1NYQFCksFW1Dmdbuj-ckmJinwBcAbQxTe
  * "U-Net: Red convolucional para segmentación de imágenes biomédicas" de Edgardo Garrigó (Físico Médico en Radioterapia). Archivos en carpeta de clase de hoy. 
  * "CLASIFICACIÓN DE IMÁGENES SATELITALES SAOCOM PARA SU CATALOGADO WEB" de Yanina Iberra (CONAE) Archivos en https://github.com/yaninaiberra/MLPythonCourse2019   
-... en construcción...
 
 La clase del 28/11
 Vimos:
