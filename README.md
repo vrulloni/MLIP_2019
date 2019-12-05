@@ -10,12 +10,11 @@ Veremos:
 La clase del 28/11
 Vimos:
 
-* Aplicación en segmentación usando grafos de Mario Alejandro García: 
+* Aplicación en segmentación usando grafos de Mario Alejandro García (UTN): 
 El código (tipo librería) está en https://github.com/malejandrogarcia/iisg
 y algunos ejemplos en:
 https://github.com/malejandrogarcia/iisg/tree/master/examples. Esos notebooks tienen todo el código adentro, no necesitan la librería.
 
-* Geomorfometría aplicada al análisis del paisaje de Eduardo García Aráoz
-Info en la carpeta de la clase de hoy
+* Geomorfometría aplicada al análisis del paisaje de Eduardo García Aráoz (Geólogo FCEFyN, UNC). Archivos en la carpeta de la clase de hoy
 
 * Herramientas de Clustering para Dosimetría en Medicina Nuclear De A. Carolina Maldonado, Joaquin Seia y Florencia Alonso (FCEFyN y estudiantes de la Diplomatura en Ciencia de Datos y Aprendizaje Automático, FaMAF). Info en: https://github.com/joaco18/TallerMLFCEFyN
